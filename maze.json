@@ -1,0 +1,16 @@
+{
+    "name": "CantoMaze",
+    "description": "The CantoVerse Early Supporters NFT! Cool, isn't it? ",
+    "image": "",
+    "html": "",
+    "attributes": [
+        {
+            "trait_type": "Citizen Status",
+            "value": "Early Mover"
+        },
+        {
+            "trait_type": "CantoVerseDAO",
+            "value": "Member"
+        }
+    ]
+}
